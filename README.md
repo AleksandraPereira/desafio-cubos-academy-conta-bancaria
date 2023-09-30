@@ -6,6 +6,8 @@ Cuja qual deveria ter as seguintes funcionalidades, cadastro de conta, alteraç�
 exclusão, depósito, saque, transferências, verificação de saldo e colsulta de extratos.
 
 
+![Captura de tela 2023-09-28 163110](https://github.com/AleksandraPereira/desafio-cubos-academy-conta-bancaria/assets/121905245/57f8ebc3-727b-44a3-9485-09e1f85762fe)
+
 
 
 
