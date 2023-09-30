@@ -9,3 +9,7 @@ exclusão, depósito, saque, transferências, verificação de saldo e colsulta 
 ![Captura de tela 2023-09-28 163110](https://github.com/AleksandraPereira/images-in-readme/assets/121905245/926dbc09-2e22-402e-a78e-4d4a3b4567c5)
 
 
+
+![Captura de tela 2023-09-28 163402](https://github.com/AleksandraPereira/desafio-cubos-academy-conta-bancaria/assets/121905245/84a0d761-4e88-4bf4-b607-5eb832696bd2)
+
+
